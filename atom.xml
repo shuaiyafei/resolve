@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaiyafei.github.io/resolve/</id>
     <title>周周大法好</title>
-    <updated>2020-07-21T13:33:43.604Z</updated>
+    <updated>2020-07-22T07:23:30.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaiyafei.github.io/resolve/"/>
     <link rel="self" href="https://shuaiyafei.github.io/resolve//atom.xml"/>
@@ -10,10 +10,58 @@
     <icon>https://shuaiyafei.github.io/resolve//favicon.ico</icon>
     <rights>All rights reserved 2020, 周周大法好</rights>
     <entry>
+        <title type="html"><![CDATA[1v1和真人试听课优化迭代]]></title>
+        <id>https://shuaiyafei.github.io/resolve//post/1v1-he-zhen-ren-shi-ting-ke-you-hua-die-dai</id>
+        <link href="https://shuaiyafei.github.io/resolve//post/1v1-he-zhen-ren-shi-ting-ke-you-hua-die-dai">
+        </link>
+        <updated>2020-07-22T06:02:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webrtc错误以及回调处理]]></title>
+        <id>https://shuaiyafei.github.io/resolve//post/webrtc-cuo-wu-yi-ji-hui-diao-chu-li</id>
+        <link href="https://shuaiyafei.github.io/resolve//post/webrtc-cuo-wu-yi-ji-hui-diao-chu-li">
+        </link>
+        <updated>2020-07-22T06:02:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[web端rtc支持混音功能]]></title>
+        <id>https://shuaiyafei.github.io/resolve//post/web-duan-rtc-zhi-chi-hun-yin-gong-neng</id>
+        <link href="https://shuaiyafei.github.io/resolve//post/web-duan-rtc-zhi-chi-hun-yin-gong-neng">
+        </link>
+        <updated>2020-07-22T06:01:46.000Z</updated>
+        <content type="html"><![CDATA[<p>1\</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[web端行为日志统计]]></title>
         <id>https://shuaiyafei.github.io/resolve//post/web-duan-xing-wei-ri-zhi-tong-ji</id>
         <link href="https://shuaiyafei.github.io/resolve//post/web-duan-xing-wei-ri-zhi-tong-ji">
         </link>
         <updated>2020-07-21T13:04:20.000Z</updated>
+        <content type="html"><![CDATA[<p><s>app启动<br>
+app登录<br>
+app退到后台<br>
+app回到前台<br>
+用户杀掉app</s></p>
+<p>点击预约的“进入教室”按钮<br>
+<s>弹出进入教室提醒弹框<br>
+点击进入教室提醒弹框的“进入教室”按钮</s></p>
+<p>开始查询课节类型<br>
+查询课节类型成功<br>
+页面初始化<br>
+开始获取课节详情<br>
+课节详情获取成功</p>
+<p>开始进入伴鱼房间<br>
+进入伴鱼房间成功<br>
+开始进入视频房间<br>
+进入音视频房间成功</p>
+<p>获取同步状态<br>
+获取同步状态成功<br>
+设置音频<br>
+设置视频</p>
+<p>弱网提示<br>
+教室页面蓝屏，自动退出</p>
+<h3 id="根据时间线打印出具体的log存到本地-之后每隔固定的时候请求服务端接口"><strong>根据时间线打印出具体的log存到本地 之后每隔固定的时候请求服务端接口</strong></h3>
+]]></content>
     </entry>
 </feed>
